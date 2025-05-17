@@ -1,0 +1,6 @@
+LoanID,MemberID,ISBN,IssueDate,DueDate,ReturnDate
+1,"Member(id='01', name='Panda', email='panda47@gmail.com', password_hash='$2b$12$3ir4fu9Mx4qmHW3iTGwEx.RkgQ/77Cs5nTLTbLyXts.j4UsoN4Yt2', join_date=datetime.date(2025, 5, 17))",a34bee4a-e8f9-4729-a25d-10ad2b37f2d4,2025-05-17,2025-05-31,
+2,"Member(id='01', name='Panda', email='panda47@gmail.com', password_hash='$2b$12$3ir4fu9Mx4qmHW3iTGwEx.RkgQ/77Cs5nTLTbLyXts.j4UsoN4Yt2', join_date=datetime.date(2025, 5, 17))",a34bee4a-e8f9-4729-a25d-10ad2b37f2d4,2025-05-17,2025-05-31,
+3,"Member(id='01', name='Panda', email='panda47@gmail.com', password_hash='$2b$12$3ir4fu9Mx4qmHW3iTGwEx.RkgQ/77Cs5nTLTbLyXts.j4UsoN4Yt2', join_date=datetime.date(2025, 5, 17))",444857d7-485e-4817-a8e9-ab7917405e29,2025-05-17,2025-05-31,
+4,"Member(id='01', name='Panda', email='panda47@gmail.com', password_hash='$2b$12$3ir4fu9Mx4qmHW3iTGwEx.RkgQ/77Cs5nTLTbLyXts.j4UsoN4Yt2', join_date=datetime.date(2025, 5, 17))",a34bee4a-e8f9-4729-a25d-10ad2b37f2d4,2025-05-17,2025-05-31,
+5,"Member(id='01', name='Panda', email='panda47@gmail.com', password_hash='$2b$12$3ir4fu9Mx4qmHW3iTGwEx.RkgQ/77Cs5nTLTbLyXts.j4UsoN4Yt2', join_date=datetime.date(2025, 5, 17))",444857d7-485e-4817-a8e9-ab7917405e29,2025-05-17,2025-05-31,
